@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @elise-p
-- 🌱 I’m currently learning Java.
+- 🌱 I’m currently learning Java, HTML, CSS, JavaScript, PHP, SQL, Flutter.
 
 
 <!---
